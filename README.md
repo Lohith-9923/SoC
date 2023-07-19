@@ -1,6 +1,5 @@
 # SoC
 ## Week-1: Introduction to Python
-![Python](https://i.ytimg.com/vi/9QE045JWL_I/maxresdefault.jpg)
 
 This week's assignment will cover the fundamentals of Python and introduce you to the world of programming with this powerful and versatile language :snake:.
 
@@ -10,13 +9,9 @@ This week's assignment will cover the fundamentals of Python and introduce you t
 ```
     pip install -r packages.txt
 ```
-
-![Data](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/110522257/original/a62fb9facb02b719776c8fd850758a659f30881d/data-analysis-and-interpretation.jpg)
-
 In this week will focus on data analysis and interpretation, where we'll leverage the power of **Pandas**, **NumPy**, **SciPy**, and **Matplotlib** to work with structured data, perform calculations, conduct statistical analysis, and create impressive visualizations. We have done many kind of plots like **scatterplot**, **histogram**, **boxplot**, **Q-Q plots** and **Heatmap**. We have used pandas to convert our dataset **Iris.csv** to dataframe and operate on that. 
 
 ## Week-3: Linear and Logistic Regression
-![Linear and Logistic](https://tse1.mm.bing.net/th?id=OIP.0oUfXHzfI_VWst_dWeK9wQHaDV&pid=Api&P=0&h=180)
 
 Assuming python packages are installed in Week-2 we don't require any new packages. 
 In this week, we delved into Linear and Logistic regression, two fundamental machine learning algorithms. The exciting part is that we will implement both models using only **NumPy**, a powerful numerical computing library and analysed the data values using plots generated from **Matplotlib**. We have divided implementation of model into many functions such as **cost** and **derivatives of parameters**.
@@ -36,7 +31,7 @@ We performed agglomerative clustering on the same dataset of data points. We'll 
 We will investigate the use of k-means clustering for image segmentation. With various k values, we'll apply k-means clustering on an example image. The image will be transformed into data so that k-means can cluster it. This will provide us with a fundamental grasp of image segmentation using clustering, even if there are more complex techniques utilising deep learning packages like **PyTorch**, **tensorflow**.
 
 ## Week-5: Deep Neural Network Model
-![Deep Neural Network](https://miro.medium.com/max/3840/1*rSDOuem8aMN1lurPhwzvNA.jpeg)
+
 This week's assignment is an exciting one as we'll dive into the world of deep learning. We will implement an N-layer neural network from scratch using only **NumPy** and **Matplotlib** for visualization. Our objective is to train the neural network on the **make_moons()** dataset from the **scikit-learn** library.
 
 ## Project: Face Detection and Recognition
