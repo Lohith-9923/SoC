@@ -36,7 +36,7 @@ We performed agglomerative clustering on the same dataset of data points. We'll 
 We will investigate the use of k-means clustering for image segmentation. With various k values, we'll apply k-means clustering on an example image. The image will be transformed into data so that k-means can cluster it. This will provide us with a fundamental grasp of image segmentation using clustering, even if there are more complex techniques utilising deep learning packages like **PyTorch**, **tensorflow**.
 
 ## Week-5: Deep Neural Network Model
-[Deep Neural Network](https://miro.medium.com/max/3840/1*rSDOuem8aMN1lurPhwzvNA.jpeg)
+![Deep Neural Network](https://miro.medium.com/max/3840/1*rSDOuem8aMN1lurPhwzvNA.jpeg)
 This week's assignment is an exciting one as we'll dive into the world of deep learning. We will implement an N-layer neural network from scratch using only **NumPy** and **Matplotlib** for visualization. Our objective is to train the neural network on the **make_moons()** dataset from the **scikit-learn** library.
 
 ## Project: Face Detection and Recognition
