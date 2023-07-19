@@ -2,7 +2,7 @@
 ## Week-1: Introduction to Python
 ![Python](https://i.ytimg.com/vi/9QE045JWL_I/maxresdefault.jpg)
 
-This week's assignment will cover the fundamentals of Python and introduce you to the world of programming with this powerful and versatile language.
+This week's assignment will cover the fundamentals of Python and introduce you to the world of programming with this powerful and versatile language :snake:.
 
 
 ## Week-2: Data Analysis and Interpretation
