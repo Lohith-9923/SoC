@@ -13,7 +13,7 @@ This week's assignment will cover the fundamentals of Python and introduce you t
 
 ![Data](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/110522257/original/a62fb9facb02b719776c8fd850758a659f30881d/data-analysis-and-interpretation.jpg)
 
-In this week will focus on data analysis and interpretation, where we'll leverage the power of **Pandas**, **NumPy**, **SciPy**, and **Matplotlib** to work with structured data, perform calculations, conduct statistical analysis, and create impressive visualizations.
+In this week will focus on data analysis and interpretation, where we'll leverage the power of **Pandas**, **NumPy**, **SciPy**, and **Matplotlib** to work with structured data, perform calculations, conduct statistical analysis, and create impressive visualizations. We have done many kind of plots like **scatterplot**, **histogram**, **boxplot**, **Q-Q plots** and **Heatmap**. We have used pandas to convert our dataset **Iris.csv** to dataframe and operate on that. 
 
 ## Week-3: Linear and Logistic Regression
 ![Linear and Logistic](https://tse1.mm.bing.net/th?id=OIP.0oUfXHzfI_VWst_dWeK9wQHaDV&pid=Api&P=0&h=180)
@@ -36,7 +36,7 @@ We performed agglomerative clustering on the same dataset of data points. We'll 
 We will investigate the use of k-means clustering for image segmentation. With various k values, we'll apply k-means clustering on an example image. The image will be transformed into data so that k-means can cluster it. This will provide us with a fundamental grasp of image segmentation using clustering, even if there are more complex techniques utilising deep learning packages like **PyTorch**, **tensorflow**.
 
 ## Week-5: Deep Neural Network Model
-![Deep Neural Network](https://www.researchgate.net/profile/Mohammad_Dewan/publication/287107337/figure/download/fig1/AS:750362046787584@1555911661553/Schematic-of-artificial-neural-network-ANN-layers-two-input-variables-two-hidden.png)
+![Deep Neural Network](https://www.researchgate.net/publication/333049256/figure/fig4/AS:758125858652160@1557762698666/An-illustration-of-a-deep-neural-network.ppm)
 
 This week's assignment is an exciting one as we'll dive into the world of deep learning. We will implement an N-layer neural network from scratch using only **NumPy** and **Matplotlib** for visualization. Our objective is to train the neural network on the **make_moons()** dataset from the **scikit-learn** library.
 
