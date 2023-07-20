@@ -32,7 +32,7 @@ We will investigate the use of k-means clustering for image segmentation. With v
 
 ## Week-5: Deep Neural Network Model
 
-This week's assignment is an exciting one as we'll dive into the world of deep learning. We will implement an N-layer neural network from scratch using only **NumPy** and **Matplotlib** for visualization. Our objective is to train the neural network on the **make_moons()** dataset from the **scikit-learn** library.
+This week's assignment is an exciting one as we'll dive into the world of deep learning. We will implement an N-layer neural network from scratch using only **NumPy** and **Matplotlib** for visualization. Our objective is to train the neural network on the **make_moons** dataset from the **scikit-learn** library.
 
 ## Project: Face Detection and Recognition
 ### Packages Required
@@ -41,12 +41,12 @@ This week's assignment is an exciting one as we'll dive into the world of deep l
 ```
 ![Face Recognition](https://tse3.mm.bing.net/th?id=OIP.yjRcia-9tJ1GBVHL0PsXvQHaD3&pid=Api&P=0&h=180)
 
-In the last two weeks, we have implemented a Face Recognition Model using Convolutional Neural Networks (**CNNs**) and Feedforward Neural Networks in **TensorFlow**. This project will demonstrate your expertise in Machine Learning and Deep Learning, culminating in a powerful model that can recognize **4** different celebrities. 
+In the last two weeks, we have implemented a Face Recognition Model using Convolutional Neural Networks (**CNNs**) and Feedforward Neural Networks in **TensorFlow** using **Keras** API. This project will demonstrate your expertise in Machine Learning and Deep Learning, culminating in a powerful model that can recognize **4** different celebrities. 
 
-For the face recognition model, we collected images of four different celebrities from **google**, **pinterest**. Each celebrity have at least **100** images, with each image containing only their face. Ensuring the images are face-only will significantly improve the accuracy of the model. 
+For the face recognition model, we collected images of four different celebrities from **google**, **pinterest**. Each celebrity have at least **100** images, with each image containing only their face. Ensuring the images are face-only will significantly improve the accuracy of the model.We used **OpenCV** Library of Python for preprocessing of our dataset like normalising, resizing.
 
 Once we have our dataset, we will split it into **training** and **testing** sets. The testing set will contain 100 images, with **25** images for each celebrity. We have achieved an average accuracy of **85%** on this test set, demonstrating the effectiveness of our face recognition model.
 
 The core of our project lies in designing the architecture of our face recognition model. We have used the power of **CNNs** and Feedforward Neural Networks to create a robust and accurate model. With the architecture in place, We have trained our model on the preprocessed training dataset, optimizing it for performance and accuracy with required **optimizer** and **loss function**.
 
-After acheiving the required accuracy of testing we now save the model using **models.save()** function which has the directory where model is saved as input parameter. 
+After acheiving the required accuracy of testing we now save the model using **models.save()** function which has the directory where model is saved as input parameter.
